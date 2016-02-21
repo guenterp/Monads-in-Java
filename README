@@ -1,0 +1,20 @@
+
+monadic methods:
+map
+flatMap
+
+examples for monads:
+Optional (get rid of null references)
+Streams 
+Promises (Completable Future)
+Validation 
+Try 
+Reader
+
+interesting links:
+http://www.slideshare.net/mariofusco/monadic-java
+https://dzone.com/articles/whats-wrong-java-8-part-iv
+
+ReaderExample inspired by Mario Fusco
+(see ReaderExample.java, Reader.java, TryReader.java)
+
